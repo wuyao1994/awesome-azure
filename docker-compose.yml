@@ -1,0 +1,4 @@
+user-service:
+  image: cosmos/awesome-azure
+  ports:
+   - 8080:8080
